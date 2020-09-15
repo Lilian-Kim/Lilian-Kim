@@ -1,4 +1,4 @@
-### Hi there 👋
+### Slow and Steady Wins the Race
 
 <!--
 **Lilian-Kim/Lilian-Kim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
